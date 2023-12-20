@@ -34,4 +34,7 @@ After training the models, the notebook includes an evaluation section that test
 The models' weights are saved for future use.
 
 ## Conclusion
-This project showcases the capabilities of combining CNNs and autoencoders for Object Set Recognition on the MNIST dataset. The intelligent handling of unrelated data as "unknown" enhances the practicality and adaptability of the solution.
+This project showcases the capabilities of combining CNNs and autoencoders for Object Set Recognition on the MNIST dataset.
+The intelligent handling of unrelated data as "unknown" enhances the practicality and adaptability of the solution.
+Here is an example featuring an image before and after autoencoder transformation, along with the CNN's classification of both images.
+![image](https://github.com/ofekoOren/GMDL-Project/blob/main/Exemples/Exemple_5.png)
